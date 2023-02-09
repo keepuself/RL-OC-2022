@@ -5,4 +5,4 @@ To verify the control performances of the developed approximate RL-based control
 ### Related Research:
 <strong>Reinforcement Learning-based Optimal Trajectory Tracking Control of a Car-like Vehicle with Input Saturation</strong>. Bo Li, Cheng Ge, Haichao Zhang, Hui Liu, Haoyang Yang, Youmin Zhang.
 
-https://user-images.githubusercontent.com/16040172/217755968-953061f3-73b6-43ef-a951-2db5db872246.mp4
+https://user-images.githubusercontent.com/16040172/217778256-7893a5e8-d8bc-43c6-8a02-44b8a5df1abb.mp4
