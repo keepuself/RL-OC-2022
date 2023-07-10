@@ -7,7 +7,7 @@ To verify the control performances of the developed approximate RL-based control
 
 ### Experimental results
 <div align=center>
-<video src="https://user-images.githubusercontent.com/16040172/217810811-bf7b3dee-3067-4243-8d98-302ffa15d4e0.mp4"controls width="800" height="600" ></video>
+<video src="https://user-images.githubusercontent.com/16040172/217810811-bf7b3dee-3067-4243-8d98-302ffa15d4e0.mp4"controls width="600" height="500" ></video>
 </div>
 
 ### The revised experiment
