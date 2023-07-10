@@ -16,9 +16,10 @@ https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/70496b1a-1fb9-477a-
 
 
 ### Long time experiment
-<img src="https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/6e7537cb-b777-4b1c-a63c-9d269212205b" width="180" height="105">
+<div align=center>
+<img src="https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/6e7537cb-b777-4b1c-a63c-9d269212205b" width="200" height="185">
+<img src="https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/8537a34f-000a-4aa1-b9a3-939b9aaff227" width="200" height="185">
+<img src="https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/658690bd-cd02-4e6d-8df2-eaaf13969914" width="200" height="185">  
+</div>
 
-![e](https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/6e7537cb-b777-4b1c-a63c-9d269212205b)
-![guiji1](https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/8537a34f-000a-4aa1-b9a3-939b9aaff227)
-![W](https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/658690bd-cd02-4e6d-8df2-eaaf13969914)
 
