@@ -7,12 +7,12 @@ To verify the control performances of the developed approximate RL-based control
 
 ### Experimental results
 <div align=center>
-<video src="https://user-images.githubusercontent.com/16040172/217810811-bf7b3dee-3067-4243-8d98-302ffa15d4e0"controls width="600" height="500" ></video>
+<video src="https://user-images.githubusercontent.com/16040172/217810811-bf7b3dee-3067-4243-8d98-302ffa15d4e0" width="600" height="500" ></video>
 </div>
 
 ### The revised experiment
 <div align=center>
-<video src="https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/70496b1a-1fb9-477a-bb1e-497439ef1a09"controls width="600" height="500" ></video>
+<video src="https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/70496b1a-1fb9-477a-bb1e-497439ef1a09" width="600" height="500" ></video>
 </div>
 
 ### Long time experiment
