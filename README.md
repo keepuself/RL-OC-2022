@@ -16,7 +16,7 @@ https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/70496b1a-1fb9-477a-
 
 
 ### Long time experiment
-<img src="![e](https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/6e7537cb-b777-4b1c-a63c-9d269212205b)" width="180" height="105">
+<img src="https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/6e7537cb-b777-4b1c-a63c-9d269212205b" width="180" height="105">
 
 ![e](https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/6e7537cb-b777-4b1c-a63c-9d269212205b)
 ![guiji1](https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/8537a34f-000a-4aa1-b9a3-939b9aaff227)
