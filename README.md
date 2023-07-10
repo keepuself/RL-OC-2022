@@ -7,7 +7,7 @@ To verify the control performances of the developed approximate RL-based control
 
 ### Experimental results
 <div align=center>
-<video src="https://user-images.githubusercontent.com/16040172/217810811-bf7b3dee-3067-4243-8d98-302ffa15d4e0" width="600" height="500" ></video>
+<video src="https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/606eed03-f6a8-473a-bde5-cb3677f01980" width="600" height="500" ></video>
 </div>
 
 ### The revised experiment
